@@ -1,0 +1,73 @@
+REGIÓN,SITIO,PROPORCION
+ANTIOQUIA,Hogar,78.2
+ANTIOQUIA,El Trabajo,27.8
+ANTIOQUIA,Instit. Educ.,26.9
+ANTIOQUIA,Acceso Púb. Gratis,14.3
+ANTIOQUIA,Acceso Púb. Costo,10.9
+ANTIOQUIA,Casa otra persona,14.0
+ANTIOQUIA,Desplazamiento,6.1
+ANTIOQUIA,Otro sitio,0.6
+ATLÁNTICA,Hogar,63.2
+ATLÁNTICA,El Trabajo,19.8
+ATLÁNTICA,Instit. Educ.,28.3
+ATLÁNTICA,Acceso Púb. Gratis,3.8
+ATLÁNTICA,Acceso Púb. Costo,21.3
+ATLÁNTICA,Casa otra persona,12.5
+ATLÁNTICA,Desplazamiento,10.3
+ATLÁNTICA,Otro sitio,0.9
+BOGOTA,Hogar,83.4
+BOGOTA,El Trabajo,37.1
+BOGOTA,Instit. Educ.,20.3
+BOGOTA,Acceso Púb. Gratis,4.0
+BOGOTA,Acceso Púb. Costo,13.6
+BOGOTA,Casa otra persona,6.5
+BOGOTA,Desplazamiento,7.0
+BOGOTA,Otro sitio,0.3
+CENTRAL,Hogar,69.3
+CENTRAL,El Trabajo,24.4
+CENTRAL,Instit. Educ.,28.6
+CENTRAL,Acceso Púb. Gratis,6.5
+CENTRAL,Acceso Púb. Costo,16.0
+CENTRAL,Casa otra persona,11.9
+CENTRAL,Desplazamiento,7.2
+CENTRAL,Otro sitio,0.8
+ORIENTAL,Hogar,65.1
+ORIENTAL,El Trabajo,25.1
+ORIENTAL,Instit. Educ.,27.6
+ORIENTAL,Acceso Púb. Gratis,5.6
+ORIENTAL,Acceso Púb. Costo,22.4
+ORIENTAL,Casa otra persona,6.4
+ORIENTAL,Desplazamiento,6.6
+ORIENTAL,Otro sitio,0.4
+ORINOQUIA-AMAZONIA,Hogar,62.2
+ORINOQUIA-AMAZONIA,El Trabajo,25.1
+ORINOQUIA-AMAZONIA,Instit. Educ.,18.5
+ORINOQUIA-AMAZONIA,Acceso Púb. Gratis,2.6
+ORINOQUIA-AMAZONIA,Acceso Púb. Costo,26.1
+ORINOQUIA-AMAZONIA,Casa otra persona,2.7
+ORINOQUIA-AMAZONIA,Desplazamiento,3.2
+ORINOQUIA-AMAZONIA,Otro sitio,1.4
+PACIFICA,Hogar,44.1
+PACIFICA,El Trabajo,14.4
+PACIFICA,Instit. Educ.,37.6
+PACIFICA,Acceso Púb. Gratis,6.3
+PACIFICA,Acceso Púb. Costo,36.9
+PACIFICA,Casa otra persona,7.5
+PACIFICA,Desplazamiento,5.6
+PACIFICA,Otro sitio,0.8
+SAN ANDRES Y PROVIDENCIA,Hogar,71.2
+SAN ANDRES Y PROVIDENCIA,El Trabajo,37.1
+SAN ANDRES Y PROVIDENCIA,Instit. Educ.,26.6
+SAN ANDRES Y PROVIDENCIA,Acceso Púb. Gratis,1.2
+SAN ANDRES Y PROVIDENCIA,Acceso Púb. Costo,4.1
+SAN ANDRES Y PROVIDENCIA,Casa otra persona,2.1
+SAN ANDRES Y PROVIDENCIA,Desplazamiento,19.6
+SAN ANDRES Y PROVIDENCIA,Otro sitio,1.1
+VALLE DEL CAUCA,Hogar,77.7
+VALLE DEL CAUCA,El Trabajo,25.6
+VALLE DEL CAUCA,Instit. Educ.,16.9
+VALLE DEL CAUCA,Acceso Púb. Gratis,7.5
+VALLE DEL CAUCA,Acceso Púb. Costo,12.7
+VALLE DEL CAUCA,Casa otra persona,12.7
+VALLE DEL CAUCA,Desplazamiento,7.1
+VALLE DEL CAUCA,Otro sitio,0.5
